@@ -1,6 +1,6 @@
 ### Hi, I'm Shabareesh 👋
 
-1st-year Computer Science student at MITE, building real apps instead of following tutorials.
+2nd-year Computer Science student at MITE, building real apps instead of following tutorials.
 
 **Currently shipping:** an intelligent campus navigation platform.
 
