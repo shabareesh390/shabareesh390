@@ -15,7 +15,7 @@ CSV/PDF exports.
 - **[ScamShield](https://github.com/shabareesh390/ScamShield)** — An application plateform where we can identify fraud and fake email or any other messages and video or audio and identify whether its safe or not.Built with Flutter + Firebase.
 
 # 💫 About Me:
-CSE student at MITE (Class of 2029) and Vidyadhan Scholar — one of only 2 selected from Dakshina Kannada district. Completed software engineering virtual experience programs with Walmart, JPMorgan Chase, Deloitte Australia, Quantium and Skyscanner, covering data structures, backend architecture, data<br>engineering, and front-end development. Experienced in Flutter, Firebase, Java, Spring Boot, MERN STACK, REST APIs, and AI-powered application development. Built end-toend solutions including EvalAI, an intelligent answer-sheet evaluation platform powered by Google Gemini AI. Seeking Software Engineering or Flutter Internship<br>opportunities.<br>
+CSE student at MITE (Class of 2029) and Vidyadhan Scholar — one of only 2 selected from Dakshina Kannada district. Completed software engineering virtual experience programs with Walmart, JPMorgan Chase, Deloitte Australia, Quantium and Skyscanner, covering data structures, backend architecture, data engineering, and front-end development. Experienced in Flutter, Firebase, Java, Spring Boot, MERN STACK, REST APIs, and AI-powered application development. Built end-toend solutions including EvalAI, an intelligent answer-sheet evaluation platform powered by Google Gemini AI. Seeking Software Engineering or Flutter Internship opportunities.
 
 
 ## 🌐 Socials:
