@@ -11,11 +11,11 @@ Businesses" track, matching bank settlement statements against a business’s sa
 CSV/PDF exports.
 - **[LuxeCart](https://github.com/shabareesh390/E-Commerce-MERN)** — Developed LuxeCart, a full-stack e-commerce web application during a MERN Stack Developer Internship at Codec Technologies, delivering a complete online shopping experience.
 - **[FireNotes](https://github.com/shabareesh390/firenotes)** — Real-time cross-platform notes app with Google OAuth, live Firestore sync, and a Material 3 dark/light UI.
-- - **[CropLens](https://github.com/shabareesh390/CropLens)** — Built for SBI Hackathon @ GFF 2026 — modernizes Kisan Credit Card loan approval by replacing manual field surveys with satellite-based farm boundary analysis on Google Maps.
+- **[CropLens](https://github.com/shabareesh390/CropLens)** — Built for SBI Hackathon @ GFF 2026 — modernizes Kisan Credit Card loan approval by replacing manual field surveys with satellite-based farm boundary analysis on Google Maps.
 - **[ScamShield](https://github.com/shabareesh390/ScamShield)** — An application plateform where we can identify fraud and fake email or any other messages and video or audio and identify whether its safe or not.Built with Flutter + Firebase.
 
 # 💫 About Me:
-CSE student at MITE (Class of 2029) and Vidyadhan Scholar — one of only 2 selected from Dakshina Kannada district. Completed software engineering virtual experience programs with Walmart, JPMorgan Chase, Deloitte Australia, Quantium and Skyscanner, covering data structures, backend architecture, data<br>engineering, and front-end development. Experienced in Flutter, Firebase, Java, Spring Boot, REST APIs, and AI-powered application development. Built end-toend solutions including EvalAI, an intelligent answer-sheet evaluation platform powered by Google Gemini AI. Seeking Software Engineering or Flutter Internship<br>opportunities.<br>
+CSE student at MITE (Class of 2029) and Vidyadhan Scholar — one of only 2 selected from Dakshina Kannada district. Completed software engineering virtual experience programs with Walmart, JPMorgan Chase, Deloitte Australia, Quantium and Skyscanner, covering data structures, backend architecture, data<br>engineering, and front-end development. Experienced in Flutter, Firebase, Java, Spring Boot, MERN STACK, REST APIs, and AI-powered application development. Built end-toend solutions including EvalAI, an intelligent answer-sheet evaluation platform powered by Google Gemini AI. Seeking Software Engineering or Flutter Internship<br>opportunities.<br>
 
 
 ## 🌐 Socials:
