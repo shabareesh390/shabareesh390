@@ -6,6 +6,9 @@
 
 #### What I've built
 - **[EvalAI](https://github.com/shabareesh390/evalai)** — AI-powered exam grading app. Teachers photograph a handwritten answer sheet, Gemini 1.5 Flash reads and grades it against expected answers, generates a PDF report with personalized feedback. Built with Flutter + Firebase.
+- **[TallyMatch](https://github.com/shabareesh390/Codex_Hackathon)** — Built an AI-powered UPI/bank reconciliation agent for the ChatGPT Codex Hackathon 2026 under the "AI for Bharat’s
+Businesses" track, matching bank settlement statements against a business’s sales ledger by parsing messy real-world
+CSV/PDF exports.
 - **[FireNotes](https://github.com/shabareesh390/firenotes)** — Real-time cross-platform notes app with Google OAuth, live Firestore sync, and a Material 3 dark/light UI.
 - **[ScamShield](https://github.com/shabareesh390/ScamShield)** — An application plateform where we can identify fraud and fake email or any other messages and video or audio and identify whether its safe or not.Built with Flutter + Firebase.
 
