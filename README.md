@@ -9,6 +9,7 @@
 - **[TallyMatch](https://github.com/shabareesh390/Codex_Hackathon)** — Built an AI-powered UPI/bank reconciliation agent for the ChatGPT Codex Hackathon 2026 under the "AI for Bharat’s
 Businesses" track, matching bank settlement statements against a business’s sales ledger by parsing messy real-world
 CSV/PDF exports.
+- **[LuxeCart](https://github.com/shabareesh390/E-Commerce-MERN)** — Developed LuxeCart, a full-stack e-commerce web application during a MERN Stack Developer Internship at Codec Technologies, delivering a complete online shopping experience.
 - **[FireNotes](https://github.com/shabareesh390/firenotes)** — Real-time cross-platform notes app with Google OAuth, live Firestore sync, and a Material 3 dark/light UI.
 - **[ScamShield](https://github.com/shabareesh390/ScamShield)** — An application plateform where we can identify fraud and fake email or any other messages and video or audio and identify whether its safe or not.Built with Flutter + Firebase.
 
