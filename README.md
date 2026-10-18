@@ -5,7 +5,7 @@
 **Currently shipping:** an intelligent campus navigation platform.
 
 #### What I've built
-- **[EvalAI](https://github.com/shabareesh390/evalai)** — AI-powered exam grading app. Teachers photograph a handwritten answer sheet, Gemini 1.5 Flash reads and grades it against expected answers, generates a PDF report with personalized feedback. Built with Flutter + Firebase.
+- **[EvalAI](https://github.com/shabareesh390/evalai)** — AI-powered exam grading app. Teachers photograph a handwritten answer sheet, Gemini API reads and grades it against expected answers, generates a PDF report with personalized feedback. Built with Flutter + Firebase.
 - **[TallyMatch](https://github.com/shabareesh390/Codex_Hackathon)** — Built an AI-powered UPI/bank reconciliation agent for the ChatGPT Codex Hackathon 2026 under the "AI for Bharat’s
 Businesses" track, matching bank settlement statements against a business’s sales ledger by parsing messy real-world
 CSV/PDF exports.
